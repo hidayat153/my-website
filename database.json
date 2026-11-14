@@ -1,0 +1,342 @@
+{
+  "users": [
+    {
+      "username": "prof",
+      "email": "hidayat010503@gmail.com",
+      "password": "prof12345"
+    },
+    {
+      "username": "test",
+      "email": "andiyaya0105@gmail.com",
+      "password": "prof123452"
+    },
+    {
+      "username": "test333",
+      "email": "hiroartop@gmail.com",
+      "password": "test333"
+    },
+    {
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "password": "DISCORD_AUTH_1278759774007197750",
+      "discordId": "1278759774007197750",
+      "avatar": "https://cdn.discordapp.com/avatars/1278759774007197750/7da4e1c69f0ca87a87322281ff0d8835.png"
+    },
+    {
+      "username": "Tsundere",
+      "email": "billymona1937@currtoggle.com",
+      "password": "DISCORD_AUTH_1554854802712961120",
+      "discordId": "1554854802712961120",
+      "avatar": "https://cdn.discordapp.com/avatars/1554854802712961120/4b5a80fe49522458533e8e10d58f7fdc.png"
+    }
+  ],
+  "otps": [
+    {
+      "email": "loadersouth@gmail.com",
+      "username": "test123",
+      "password": "test123",
+      "otp": "678174",
+      "expiresAt": 1794616930345
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ROCSKTAR",
+      "category": "Akun & Key",
+      "badge": "Tersedia",
+      "price": "Rp 1000",
+      "code": "PRV",
+      "desc": "Utilitas eksternal FiveM performa tinggi dengan stream-proof overlay dan proteksi Kernel Ring-0.",
+      "features": [
+        "Stream-Proof (OBS & Discord Share Screen Aman)",
+        "Customizable ESP, Aim Assist & Config Loader",
+        "Support Windows 10 & Windows 11",
+        "Update Selamanya & Support Teknis 24/7"
+      ],
+      "image": "data:image/webp;base64,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",
+      "stockAccounts": [
+        {
+          "id": "bqcddlo",
+          "data": "test test",
+          "isSold": true,
+          "soldTo": "andiahmadhidayat@icloud.com",
+          "soldAt": "2026-11-14T01:37:10.218Z"
+        },
+        {
+          "id": "2l3tcjb",
+          "data": "test test",
+          "isSold": true,
+          "soldTo": "andiahmadhidayat@icloud.com",
+          "soldAt": "2026-11-14T02:05:10.600Z"
+        },
+        {
+          "id": "1sy9ehq",
+          "data": "test test",
+          "isSold": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rockstar Games GTA V — Fresh Account",
+      "category": "Akun & Key",
+      "badge": "Tersedia",
+      "price": "Rp 55.000",
+      "code": "RGL-FRESH-01",
+      "desc": "Akun Rockstar Games Launcher original berisi lisensi Grand Theft Auto V siap pakai untuk FiveM.",
+      "features": [
+        "Full Access (Email & Password Dapat Diganti)",
+        "100% Clean — Belum Pernah Terdaftar FiveM",
+        "Pengiriman Instan Otomatis",
+        "Garansi Replace Penuh"
+      ],
+      "stockAccounts": []
+    },
+    {
+      "id": 3,
+      "name": "HWID Perm Spoofer — One-Click Bypass",
+      "category": "Tools & Utility",
+      "badge": "Best Seller",
+      "price": "Rp 220.000",
+      "code": "HWID-SPF-PRO",
+      "desc": "Pengubah serial hardware (Motherboard, Disk, MAC, SMBIOS) secara permanen tanpa instal ulang Windows.",
+      "features": [
+        "Support Global Ban FiveM, EAC & BattlEye",
+        "One-Click Clean & Serial Randomizer",
+        "Tanpa Flash BIOS atau Format Disk",
+        "Panduan Lengkap & Bantuan Remote AnyDesk"
+      ],
+      "stockAccounts": []
+    },
+    {
+      "id": 4,
+      "name": "Discord Nitro Boost — 1 Bulan Legal",
+      "category": "Premium App",
+      "badge": "Tersedia",
+      "price": "Rp 65.000",
+      "code": "DSC-NITRO-1M",
+      "desc": "Langganan Discord Nitro Full (termasuk 2x Server Boost) legal dan bergaransi penuh 30 hari.",
+      "features": [
+        "2x Server Boost & Custom Profile Banner",
+        "Upload 500MB & HD Streaming 4K 60fps",
+        "Bisa untuk Akun Lama maupun Baru",
+        "100% Anti-Revoke & Garansi Full 30 Hari"
+      ],
+      "stockAccounts": []
+    },
+    {
+      "id": 5,
+      "name": "14x Discord Server Boost (Level 3)",
+      "category": "Premium App",
+      "badge": "Best Seller",
+      "price": "Rp 145.000",
+      "code": "DSC-BOOST-14X",
+      "desc": "Paket instan 14x Server Boost untuk menaikkan server Discord langsung ke Level 3 selama 30 hari.",
+      "features": [
+        "Membuka Custom Vanity URL Server Discord",
+        "Kualitas Audio 384kbps & 100MB Upload",
+        "Proses Instan Otomatis",
+        "Garansi Aktif Penuh 30 Hari"
+      ],
+      "stockAccounts": []
+    },
+    {
+      "id": 6,
+      "name": "Windows 11 Pro — Retail License Key",
+      "category": "Akun & Key",
+      "badge": "Tersedia",
+      "price": "Rp 85.000",
+      "code": "WIN11-PRO-RTL",
+      "desc": "Lisensi original Windows 11 Professional (25 Digit) dengan aktivasi online permanen.",
+      "features": [
+        "Lisensi Original Retail (Bukan Crack/KMS)",
+        "Aktif Permanen & Support Update Resmi",
+        "Bisa Dipindahkan ke Perangkat Lain",
+        "Garansi Aktivasi 100% Berhasil"
+      ],
+      "stockAccounts": []
+    }
+  ],
+  "liveStatus": [
+    {
+      "id": 1,
+      "name": "FiveM External Suite & Spoofer",
+      "sub": "Build v4.8.2 — Kernel Ring-0 Protection",
+      "status": "UNDETECTED / ONLINE",
+      "online": true,
+      "uptime": "100%"
+    },
+    {
+      "id": 2,
+      "name": "Rockstar Games & Steam Vault",
+      "sub": "Automated Account & License Dispenser",
+      "status": "OPERATIONAL",
+      "online": true,
+      "uptime": "99.9%"
+    },
+    {
+      "id": 3,
+      "name": "Discord Nitro & Server Boost Engine",
+      "sub": "Automated Token & Gift Provisioning",
+      "status": "OPERATIONAL",
+      "online": true,
+      "uptime": "99.8%"
+    },
+    {
+      "id": 4,
+      "name": "Cloud VM & RDP Private Node",
+      "sub": "Singapore Baremetal Cluster",
+      "status": "MAINTENANCE",
+      "online": false,
+      "uptime": "65%"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "PROF-1794622992621",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:23:12.870Z"
+    },
+    {
+      "orderId": "PROF-1794622708798",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:18:29.041Z"
+    },
+    {
+      "orderId": "PROF-1794622541529",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:15:41.724Z"
+    },
+    {
+      "orderId": "PROF-1794622520346",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:15:20.555Z"
+    },
+    {
+      "orderId": "PROF-1794621902130",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PAID",
+      "createdAt": "2026-11-14T02:05:02.588Z",
+      "deliveredAccount": "test test"
+    },
+    {
+      "orderId": "PROF-1794621742020",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:02:22.254Z"
+    },
+    {
+      "orderId": "PROF-1794621655672",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T02:00:55.890Z"
+    },
+    {
+      "orderId": "PROF-1794621025062",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T01:50:25.062Z"
+    },
+    {
+      "orderId": "PROF-1794620656180",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T01:44:16.388Z"
+    },
+    {
+      "orderId": "PROF-1794620388605",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 1000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T01:39:48.833Z"
+    },
+    {
+      "orderId": "PROF-1794620240790",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 10.000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T01:37:20.998Z"
+    },
+    {
+      "orderId": "PROF-1794620223443",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 10.000",
+      "paymentMethod": "QRIS",
+      "status": "PAID",
+      "createdAt": "2026-11-14T01:37:03.745Z",
+      "deliveredAccount": "test test"
+    },
+    {
+      "orderId": "PROF-1794619814901",
+      "username": "! gta mabar",
+      "email": "andiahmadhidayat@icloud.com",
+      "productId": 1,
+      "productName": "ROCSKTAR",
+      "price": "Rp 10.000",
+      "paymentMethod": "QRIS",
+      "status": "PENDING",
+      "createdAt": "2026-11-14T01:30:15.118Z"
+    }
+  ]
+}
